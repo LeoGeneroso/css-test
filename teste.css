@@ -1,3 +1,7 @@
+#titulo{
+	color: #7D775C;
+}
+
 html {
 	margin: 0;
 	padding: 0;
@@ -10,47 +14,18 @@ body{
 	margin: 0; 
 	padding: 0;
 	}
-p { 
-	margin-top: 0; 
-	text-align: justify;
-	}
-h3 { 
-	font: italic normal 1.4em georgia, sans-serif;
-	letter-spacing: 1px; 
-	margin-bottom: 0;
-	color: #7D775C;
-	}
-a:link { 
-	font-weight: bold; 
-	text-decoration: none; 
-	color: #B7A5DF;
-	}
+
 a:visited { 
 	font-weight: bold; 
 	text-decoration: none; 
 	color: #D4CDDC;
 	}
-a:hover, a:focus, a:active { 
-	text-decoration: underline; 
-	color: #9685BA;
-	}
+
 abbr {
 	border-bottom: none;
 	}
 
 
-/* specific divs */
-.page-wrapper { 
-	background: url(zen-bg.jpg) no-repeat top left; 
-	padding: 0 175px 0 110px;  
-	margin: 0; 
-	position: relative;
-	}
-
-.intro { 
-	min-width: 470px;
-	width: 100%;
-	}
 
 header h1 { 
 	background: transparent url(h1.gif) no-repeat top left;
