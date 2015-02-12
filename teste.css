@@ -25,7 +25,59 @@ abbr {
 	border-bottom: none;
 	}
 
+#titulo{
+	color: #7D775C;
+}
 
+html {
+	margin: 0;
+	padding: 0;
+	}
+body{ 
+	font: 75% georgia, sans-serif;
+	line-height: 1.88889;
+	color: #555753; 
+	background: #fff url(blossoms.jpg) no-repeat bottom right; 
+	margin: 0; 
+	padding: 0;
+	}
+
+a:visited { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #D4CDDC;
+	}
+
+abbr {
+	border-bottom: none;
+	}
+	
+#titulo{
+	color: #7D775C;
+}
+
+html {
+	margin: 0;
+	padding: 0;
+	}
+body{ 
+	font: 75% georgia, sans-serif;
+	line-height: 1.88889;
+	color: #555753; 
+	background: #fff url(blossoms.jpg) no-repeat bottom right; 
+	margin: 0; 
+	padding: 0;
+	}
+
+a:visited { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #D4CDDC;
+	}
+
+abbr {
+	border-bottom: none;
+	}	
 
 header h1 { 
 	background: transparent url(h1.gif) no-repeat top left;
