@@ -1,4 +1,4 @@
-#titulo{
+#titulo1{
 	color: #7D775C;
 }
 
@@ -60,6 +60,43 @@ abbr {
 	color: #7D775C;
 }
 
+<<<<<<< HEAD
+=======
+#titulo{
+	color: #7D775C;
+}
+
+>>>>>>> 567f068c4cd3ceb90bdda12c9cc20a0e8dec3049
+html {
+	margin: 0;
+	padding: 0;
+	}
+body{ 
+	font: 75% georgia, sans-serif;
+	line-height: 1.88889;
+	color: #555753; 
+	background: #fff url(blossoms.jpg) no-repeat bottom right; 
+	margin: 0; 
+	padding: 0;
+	}
+<<<<<<< HEAD
+
+=======
+
+a:visited { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #D4CDDC;
+	}
+
+abbr {
+	border-bottom: none;
+	}
+	
+#titulo{
+	color: #7D775C;
+}
+
 html {
 	margin: 0;
 	padding: 0;
@@ -73,6 +110,7 @@ body{
 	padding: 0;
 	}
 
+>>>>>>> 567f068c4cd3ceb90bdda12c9cc20a0e8dec3049
 a:visited { 
 	font-weight: bold; 
 	text-decoration: none; 
